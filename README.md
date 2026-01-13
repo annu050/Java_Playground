@@ -1,7 +1,7 @@
 # ☕ Java Overview
 
 ## What is Java?
-**Java** is a **high-level, object-oriented, platform-independent programming language** widely used to build web applications, mobile apps, desktop software, and enterprise systems.
+**Java** is a **high-level, object-oriented, platform-independent programming language** and **stack-based programming language** i.e. widely used to build web applications, mobile apps, desktop software, and enterprise systems.
 
 Java follows the principle **“Write Once, Run Anywhere”**, meaning Java programs can run on any system that has a Java Virtual Machine (JVM).
 
