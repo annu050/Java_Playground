@@ -2,6 +2,7 @@ package Basics.Access_Modifiers;
 
 //Members marked private are accessible only within the same class
 //They cannot be accessed directly from outside the class
+//Private methods cannot be overridden because they are NOT visible to subclasses.
 class BankAccount {
 
     // private data members
